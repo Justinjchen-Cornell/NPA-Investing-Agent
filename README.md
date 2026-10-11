@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src=".github/social-preview.png" alt="NPA-Investing-Agent 封面：不良资产投资智能体知识库" width="100%">
+
 # 🏦 NPA-Investing-Agent
 
 **不良资产投资智能体知识库 · 实战手册**
